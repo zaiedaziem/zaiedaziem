@@ -1,235 +1,88 @@
-# 👋 Hi, I'm Muhamad Zaied Aziem Mohd Zaidi
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Zaied Aziem
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;Clean+Architecture+Enthusiast;Problem+Solver+%26+Innovator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full+Stack+Developer;Clean+Architecture+Enthusiast;Building+Scalable+Solutions)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineering undergraduate** from Malaysia, dedicated to building scalable, efficient, and innovative software solutions. My approach combines solid architectural principles with modern development practices to create applications that make a real impact.
+I'm a **Software Engineering undergraduate** from Malaysia with a passion for building **scalable, efficient, and innovative software solutions**. My journey in technology is driven by the belief that great software can transform complex problems into elegant solutions.
 
-```typescript
-const zaied = {
+```javascript
+const developer = {
+    name: "Zaied Aziem",
     location: "Malaysia 🇲🇾",
     education: "Bachelor's in Software Engineering",
-    focus: ["Clean Architecture", "RESTful APIs", "Full Stack Development"],
-    currentlyLearning: ["Cloud Architecture", "Microservices", "DevOps"],
-    lookingFor: "Internship & Full-time opportunities",
-    funFact: "I transform coffee into code ☕️"
+    code: ["C#", "Java", "JavaScript", "PHP", "Dart", "C++"],
+    technologies: {
+        backend: [".NET Core", "ASP.NET", "Node.js", "RESTful APIs"],
+        frontend: ["HTML5", "CSS3", "JavaScript", "Vue.js", "React"],
+        mobile: ["Flutter", "Android"],
+        databases: ["MySQL", "SQL Server", "Oracle", "PostgreSQL"],
+        devOps: ["Docker", "Git", "Google Cloud", "Linux"],
+        architecture: ["Clean Architecture", "CQRS", "Design Patterns"]
+    },
+    currentFocus: "Building production-ready applications with Clean Architecture",
+    challenge: "I turn coffee into code ☕️ → 💻"
 };
 ```
 
-### 🎯 What I Do
+### 💡 What Drives Me
 
-- 🏗️ Build **scalable backend systems** using Clean Architecture & CQRS patterns
-- 🎨 Craft **responsive web applications** with modern frameworks
-- 📱 Develop **cross-platform mobile apps** using Flutter & Dart
-- 🔧 Implement **CI/CD pipelines** for automated deployments
-- 📊 Design **efficient database schemas** and optimize queries
-
----
-
-## 💼 Technical Arsenal
-
-### 🔨 Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### 🎯 Backend & APIs
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🛠️ Tools & IDEs
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🏗️ Architecture & Patterns
-- Clean Architecture
-- CQRS (Command Query Responsibility Segregation)
-- Repository Pattern
-- Dependency Injection
-- RESTful API Design
-- Microservices Architecture
+- 🏗️ **Architecture First**: Building maintainable systems using Clean Architecture & CQRS patterns
+- 🎯 **Quality Code**: Writing testable, scalable, and well-documented solutions
+- 🚀 **Continuous Learning**: Always exploring new technologies and best practices
+- 🤝 **Problem Solving**: Transforming complex requirements into elegant implementations
 
 ---
 
-## 🌟 Featured Projects
+* 🌍  Based in **Malaysia**
+* ✉️  Reach me at [zaiedaziem2@gmail.com](mailto:zaiedaziem2@gmail.com)
+* 🧠  Currently mastering **Clean Architecture, Microservices & Cloud Technologies**
+* 🤝  Open to **internships, collaborations, and exciting projects**
+* ⚡  **Fun fact**: I believe the best code is the code you don't have to write
 
-### 🎯 [CDN Freelancer Management API](https://github.com/zaiedaziem/cdn-freelancer-api)
-> Enterprise-grade RESTful API built with Clean Architecture principles
-
-**Tech Stack:** `.NET Core` `Entity Framework Core` `MediatR` `FluentValidation` `SQL Server`
-
-**Key Features:**
-- ✅ Complete CRUD operations with advanced search
-- ✅ CQRS pattern implementation with MediatR
-- ✅ Pagination & filtering for optimal performance
-- ✅ Comprehensive validation using FluentValidation
-- ✅ Unit testing with xUnit & Moq
-- ✅ Global error handling middleware
-- ✅ JWT authentication & authorization
-
-**Highlights:**
-- 🏆 Implements Clean Architecture with clear separation of concerns
-- 🏆 90%+ test coverage
-- 🏆 Production-ready with CI/CD pipeline
+<a href="https://www.github.com/zaiedaziem" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/zaiedaziem?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ---
 
-### 📱 [Project Name 2]
-> Brief engaging description
+### Skills
 
-**Tech Stack:** `Technology 1` `Technology 2` `Technology 3`
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+</p>
 
-**Key Features:**
-- Feature 1 with impact
-- Feature 2 with results
-- Feature 3 with value
+### Socials
 
----
+<p align="left"> <a href="https://www.github.com/zaiedaziem" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/zaied.aziem" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/zaied-aziem-9592ba257" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### 🌐 [Project Name 3]
-> Brief engaging description
+### Badges
 
-**Tech Stack:** `Technology 1` `Technology 2` `Technology 3`
+<b>My GitHub Stats</b>
 
-**Achievements:**
-- 🎯 Achievement 1
-- 🎯 Achievement 2
-- 🎯 Achievement 3
+<a href="http://www.github.com/zaiedaziem"><img src="https://github-readme-stats.vercel.app/api?username=zaiedaziem&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="zaiedaziem's GitHub stats" /></a>
 
----
+<a href="http://www.github.com/zaiedaziem"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zaiedaziem&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-## 📊 GitHub Analytics
+<a href="http://www.github.com/zaiedaziem"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=zaiedaziem&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zaiedaziem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaiedaziem&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/zaiedaziem" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaiedaziem&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-</div>
+<b>Top Repositories</b>
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaiedaziem&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zaiedaziem&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-```
-🎓 Bachelor's in Software Engineering (In Progress)
-💡 Clean Architecture & Design Patterns
-🚀 RESTful API Development
-☁️ Cloud Platform Deployment
-🔧 CI/CD Pipeline Implementation
-```
-
----
-
-## 📈 Contribution Stats
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=zaiedaziem&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-## 💡 Current Focus
-
-```mermaid
-graph LR
-    A[Learning] --> B[Cloud Architecture]
-    A --> C[Microservices]
-    A --> D[DevOps Practices]
-    B --> E[AWS/Azure]
-    C --> F[Docker & Kubernetes]
-    D --> G[CI/CD Automation]
-```
-
-**2025 Goals:**
-- 🎯 Contribute to open-source projects
-- 🎯 Master cloud architecture patterns
-- 🎯 Build production-grade microservices
-- 🎯 Obtain cloud certifications (Azure/AWS)
-- 🎯 Secure software engineering internship
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaied-aziem-9592ba257)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zaiedaziem)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zaied.aziem)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaiedaziem2@gmail.com)
-
-</div>
-
----
-
-## 💬 Get In Touch
-
-- 📧 **Email:** zaiedaziem2@gmail.com
-- 🌍 **Location:** Malaysia
-- 💼 **Open to:** Internships, Full-time positions, Freelance projects
-- 🤝 **Collaboration:** Open-source projects, Interesting challenges
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
 ---
 
 <div align="center">
 
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### 💭 *"First, solve the problem. Then, write the code."* – John Johnson
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=zaiedaziem&color=0891b2&style=flat-square&label=Profile+Views)
 
-**⭐️ From [zaiedaziem](https://github.com/zaiedaziem) | Building the future, one commit at a time**
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+**⭐️ From [zaiedaziem](https://github.com/zaiedaziem) | Building solutions, one commit at a time**
 
 </div>
