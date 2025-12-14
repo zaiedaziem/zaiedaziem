@@ -2,7 +2,7 @@
   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:06b6d4&height=120&section=header&text=Zaied%20Aziem&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Clean+Architecture+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Building+Scalable+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Clean+Architecture+%F0%9F%8F%97%EF%B8%8F;Building+Scalable+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -29,7 +29,7 @@ I'm a **Software Engineering undergraduate** from Malaysia with a passion for bu
 <td width="50%">
 
 🏗️ **Architecture First**
-> Building maintainable systems using Clean Architecture & CQRS
+> Building maintainable systems 
 
 🎯 **Quality Code**
 > Writing testable, scalable solutions
