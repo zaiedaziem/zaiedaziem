@@ -115,15 +115,11 @@ I'm a **Software Engineering undergraduate** from Malaysia with a passion for bu
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zaiedaziem&hide_border=true&background=0d1117&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=0891b2&sideLabels=c9d1d9&dates=c9d1d9" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaiedaziem&layout=compact&hide_border=true&title_color=0891b2&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=zaiedaziem&bg_color=0d1117&color=0891b2&line=0891b2&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Graph" />
 
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zaiedaziem&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
 
 <br>
 
