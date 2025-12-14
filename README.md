@@ -62,9 +62,6 @@ I'm a **Software Engineering undergraduate** from Malaysia with a passion for bu
 <a href="https://github.com/zaiedaziem">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://instagram.com/zaied.aziem">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 
 <img src="https://img.shields.io/github/followers/zaiedaziem?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 
