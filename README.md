@@ -132,9 +132,6 @@ I'm a **Software Engineering undergraduate** from Malaysia with a passion for bu
 
 <br>
 
-### ✨ Profile Views
-![](https://komarev.com/ghpvc/?username=zaiedaziem&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS)
-
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:06b6d4&height=120&section=footer"/>
